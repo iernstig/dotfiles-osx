@@ -1,0 +1,23 @@
+{
+  "lists": {
+    "%2FUsers%2Fisakernstig%2F": {
+      "config%2Fnvim": [
+        "ex"
+      ]
+    },
+    "%2FUsers%2Fisakernstig": [
+      "exten"
+    ]
+  },
+  "commands": {
+    "%2FUsers%2Fisakernstig": [
+      ":q"
+    ]
+  },
+  "marketplace": {
+    "%2FUsers%2Fisakernstig": [
+      "python",
+      "latex"
+    ]
+  }
+}
